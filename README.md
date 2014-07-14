@@ -5,7 +5,7 @@ dulorcoin Specifications:
 
     X13 algorithm
     5 million coins mined during the PoW phase
-    6% Premine
+    4% Premine
     14 Day PoW
     10 % PoS
     Confirmations - 10
